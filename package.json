@@ -2,6 +2,10 @@
   "name": "back-end-react-api-take-home-test",
   "version": "1.0.0",
   "description": "",
+  "apidoc": {
+    "title": "API doc for cps calendar api",
+    "url" : "http://localhost:3000/get-calendar"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -6,7 +6,7 @@ module.exports.init = function () {
     const app = express();
 
  /**
- * @api {Get} /get-calendar
+ * @api {get} /et-calendar Get cps calendars
  * @apiPermission None
  * @apiDescription Get calendar from CPS API and rename ColorCode property key
  * @apiName GetCalendar

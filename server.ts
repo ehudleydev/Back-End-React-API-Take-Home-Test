@@ -28,7 +28,6 @@ module.exports.init = function () {
                 return respJson[index];
             });
 
-            console.log(respJson);
             res.writeHead(200, {'Content-Type': 'application/json'});
             res.send(respJson);
         } catch (err) {

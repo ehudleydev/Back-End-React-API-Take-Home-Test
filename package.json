@@ -1,0 +1,17 @@
+{
+  "name": "back-end-react-api-take-home-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.4.7",
+    "express": "^4.18.2",
+    "global": "^4.4.0"
+  }
+}
